@@ -9,4 +9,5 @@ www.linkedin.com/in/sflemingmn
 You can also view my full resume by visiting the following link. 
 mnsfleming.github.io/resume.pdf
 
-Thanks for visiting my profile page!
+# Thanks 
+I appreciate you vvisiting my profile page!
