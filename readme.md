@@ -5,7 +5,7 @@ Welcome to a group of projects created while attending the JavaScript Web Develo
 For additional details on my backround, please visit LinkedIn at - www.linkedin.com/in/sflemingmn.
 
 # Resume
-You can also view my full resume by visiting - https://github.com/MNsfleming/MNsfleming.github.io/blob/main/resume.pdf.
+You can also view my full resume by visiting - https://mnsfleming.github.io/resume.pdf.
 
 # Thanks 
 I appreciate you vvisiting my profile page!
